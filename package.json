@@ -1,0 +1,28 @@
+{
+  "name": "react-rock-paper-scissors",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jss-global": "^2.0.0",
+    "material-ui": "next",
+    "material-ui-icons": "^1.0.0-beta.10",
+    "react": "lasted",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-scripts": "1.0.13",
+    "recompose": "^0.25.0",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6",
+    "socket.io-client": "^2.0.3",
+    "typeface-roboto": "^0.0.35"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "eslint-plugin-babel": "^4.1.2"
+  }
+}
